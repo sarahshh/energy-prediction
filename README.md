@@ -46,6 +46,9 @@ Next steps:
 - For the prediction, it seems that a time range of 6 months has its limits and it would be interesting to train the prediction model on a bigger timeframe to be able to extract patterns across the full year. We could also look at a method to obtain better predictions for properties that were partially vacant during the studied period. 
 
 
+## Authors
 
+- Sarah Sahli
+- Daniel Gil
 
 
